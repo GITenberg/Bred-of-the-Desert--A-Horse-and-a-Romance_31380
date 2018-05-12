@@ -1,0 +1,29 @@
+_repo: Bred-of-the-Desert--A-Horse-and-a-Romance_31380
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Horton, Charles M. (Charles Marcus)
+    alias: Horton, Marcus
+    birthdate: 1879
+    gutenberg_agent_id: '26669'
+    url: http://www.gutenberg.org/2009/agents/26669
+description: ''
+gutenberg_issued: '2010-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Love stories'
+- !lcsh 'New Mexico -- Fiction'
+- !lcsh 'Horses -- Fiction'
+title: 'Bred of the Desert: A Horse and a Romance'
+url: http://www.gutenberg.org/ebooks/31380
